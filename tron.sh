@@ -8,4 +8,5 @@ if [ $encrypted_e5855cb9e09c_key ];then
 fi
 
 
+
 cp -f config/checkstyle/checkStyle.xml config/checkstyle/checkStyleAll.xml
